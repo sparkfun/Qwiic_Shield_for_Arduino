@@ -20974,6 +20974,8 @@ to be daisy chained easily.&lt;/p&gt;
 <part name="U$2" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".1_INCH" value="SFE_LOGO_NAME_FLAME.1_INCH"/>
 <part name="U$3" library="SparkX" deviceset="QWIIC_BOARD_OUTLINE" device="H"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="REVISION" device=""/>
+<part name="FD3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
+<part name="FD4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 </parts>
 <sheets>
 <sheet>
@@ -21052,6 +21054,8 @@ Conversion</text>
 <instance part="U$2" gate="G$1" x="147.32" y="35.56"/>
 <instance part="U$3" gate="G$1" x="241.3" y="40.64"/>
 <instance part="LOGO2" gate="G$1" x="148.59" y="6.858"/>
+<instance part="FD3" gate="G$1" x="243.84" y="30.48"/>
+<instance part="FD4" gate="G$1" x="238.76" y="30.48"/>
 </instances>
 <busses>
 </busses>
