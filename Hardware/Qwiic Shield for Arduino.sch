@@ -21045,7 +21045,7 @@ to be daisy chained easily.&lt;/p&gt;
 <text x="45.72" y="154.94" size="3.048" layer="97" font="vector" ratio="12" align="center">Logic Level
 Conversion</text>
 <text x="170.18" y="154.94" size="3.048" layer="97" font="vector" ratio="12">Arduino</text>
-<text x="236.22" y="7.62" size="2.54" layer="94" font="vector">V01</text>
+<text x="236.22" y="7.62" size="2.54" layer="94" font="vector">V10</text>
 <text x="38.1" y="45.72" size="3.048" layer="97" font="vector" ratio="12">I2C Connectors</text>
 <text x="168.656" y="6.858" size="2.54" layer="94" font="vector">Andrew England</text>
 <wire x1="0" y1="76.2" x2="96.52" y2="76.2" width="0.1524" layer="97" style="longdash"/>
