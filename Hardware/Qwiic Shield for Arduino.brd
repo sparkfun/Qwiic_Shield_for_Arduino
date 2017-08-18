@@ -8,7 +8,7 @@
 </settings>
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.0005" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
@@ -54,7 +54,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
@@ -164,7 +164,6 @@ Shield</text>
 <wire x1="0" y1="57.15" x2="2.54" y2="59.69" width="0.2032" layer="20"/>
 <wire x1="2.54" y1="59.69" x2="50.8" y2="59.69" width="0.2032" layer="20"/>
 <wire x1="50.8" y1="59.69" x2="53.34" y2="57.15" width="0.2032" layer="20"/>
-<wire x1="53.34" y1="2.54" x2="50.8" y2="0" width="0.2032" layer="20"/>
 <wire x1="2.54" y1="0" x2="0" y2="2.54" width="0.2032" layer="20"/>
 <text x="5.207" y="54.61" size="1.016" layer="21" font="vector" ratio="15" align="center">RX</text>
 <text x="5.207" y="52.07" size="1.016" layer="21" font="vector" ratio="15" align="center">TX</text>
@@ -481,6 +480,7 @@ Shield</text>
 <wire x1="39.37" y1="0" x2="39.37" y2="2.54" width="0.2032" layer="20"/>
 <wire x1="39.37" y1="2.54" x2="53.34" y2="2.54" width="0.2032" layer="20"/>
 <dimension x1="39.37" y1="2.54" x2="53.34" y2="2.54" x3="46.355" y3="-15.24" textsize="1.778" layer="47"/>
+<text x="41.8338" y="0.8636" size="1.016" layer="20">Route out</text>
 </plain>
 <libraries>
 <library name="SparkFun-Boards">
