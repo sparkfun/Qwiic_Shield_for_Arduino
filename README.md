@@ -15,7 +15,7 @@ Repository Contents
 Documentation
 --------------
 
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the Arduino Qwiic Shield
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-shield-for-arduino--photon-hookup-guide)** - Basic hookup guide for the Arduino Qwiic Shield
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 * **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
